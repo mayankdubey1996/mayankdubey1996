@@ -1,5 +1,5 @@
 
-#Welcome#
+# Welcome #
 - :man_student: GMU'21 MS Data Analytics and Engineering
 - :notebook:Learning alot of things from Power Bi to finance!
 - :fire: Machine learning and Data Structures and algorithms.
