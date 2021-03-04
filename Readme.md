@@ -6,4 +6,4 @@
 - :raised_hands: Likes to make hard things simple.
 - :speech_balloon: Loves storytelling.
 - :mag: Reach me @ [Linkedin](https://www.linkedin.com/in/mayank-dubey11/)
-- ⚡ Hard fact: If you don't know gradient descent you don't know machine learning.
+- ⚡ Hard fact: If you don't know gradient descent, you don't know machine learning.
