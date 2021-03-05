@@ -1,5 +1,6 @@
 
 # Welcome  :dart:
+- ![](https://komarev.com/ghpvc/?username=mayankdubey1996&color=green)
 - :man_student: GMU'21 MS Data Analytics and Engineering.
 - 4:star: problem solver, 5:star: python programmer @ [HackerRank](https://www.hackerrank.com/mayankdubey1996).
 - :notebook:Learning alot of things from Power Bi to finance.
