@@ -9,4 +9,3 @@
 - :raised_hands: Loves to make hard things simple.
 - :speech_balloon: Loves storytelling.
 - :mag: Reach me @ [Linkedin](https://www.linkedin.com/in/mayank-dubey11/).
-- :boom: If you don't know gradient descent, you don't know machine learning.
