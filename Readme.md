@@ -4,7 +4,6 @@
 
 - :man_student: GMU'21 MS Data Analytics and Engineering.
 - 4:star: problem solver, 5:star: python programmer @ [HackerRank](https://www.hackerrank.com/mayankdubey1996).
-- :notebook:Learning alot of things from Power Bi to finance.
 - :fire: Machine learning and Data Structures and algorithms.
 - :raised_hands: Loves to make hard things simple.
 - :speech_balloon: Loves storytelling.
