@@ -15,7 +15,7 @@
 - Machine learning, Deep learning, Python, SQL
 
 ### Project:
- * Coming Soon *
+ *Coming Soon*
  
 ### Know me beyond Work: 😎
 - Foodie
