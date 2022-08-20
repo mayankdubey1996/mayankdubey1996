@@ -1,10 +1,20 @@
 
-# Welcome  :dart:
+# Welcome to Mayank's portfolio 
 
+### Education: :man_student:
+- NLP Nanodegree - Udacity (Currently Pursuing)
+- M.S. Data Analytics and Engineering - George Mason University May '21
+- B.Engg. Computer Sceince Rajiv Gandhi Proudyogiki Vishwavidyalaya May'18
 
-- :man_student: GMU'21 MS Data Analytics and Engineering.
-- 4:star: problem solver, 5:star: python programmer @ [HackerRank](https://www.hackerrank.com/mayankdubey1996).
-- :fire: Machine learning and Data Structures and algorithms.
-- :raised_hands: Loves to make hard things simple.
-- :speech_balloon: Loves storytelling.
-- :mag: Reach me @ [Linkedin](https://www.linkedin.com/in/mayank-dubey11/).
+### Competencies:
+- Currently brushing up NLP
+- Machine learning, Deep learning, Python, SQL
+
+### Beyond Work:
+- Foodie
+- Chess
+- Story Telling
+
+### Let's Connect
+:mag: Connect with me @ [Linkedin](https://www.linkedin.com/in/mayank-dubey11/)
+
