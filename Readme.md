@@ -14,6 +14,9 @@
 - Currently brushing up NLP
 - Machine learning, Deep learning, Python, SQL
 
+### Project:
+  #### SQL
+   - 
 ### Know me beyond Work: 😎
 - Foodie
 - Chess
@@ -21,4 +24,5 @@
 
 ### Let's Connect :mag:
 - [Linkedin](https://www.linkedin.com/in/mayank-dubey11/)
+
 
