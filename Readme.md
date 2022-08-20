@@ -20,7 +20,7 @@
 ### Know me beyond Work: 😎
 - Foodie
 - Chess
-- Story Telling
+- Story Teller
 
 ### Let's Connect :mag:
 - [Linkedin](https://www.linkedin.com/in/mayank-dubey11/)
