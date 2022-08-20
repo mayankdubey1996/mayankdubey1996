@@ -15,7 +15,7 @@
 - Machine learning, Deep learning, Python, SQL
 
 ### Project:
-  #### SQL
+##### SQL
    - 
 ### Know me beyond Work: 😎
 - Foodie
