@@ -15,7 +15,8 @@
 - Machine learning, Deep learning, Python, SQL
 
 ### Project:
- *Coming Soon*
+ - SQL
+   - 1. [Danny's Dinner](https://github.com/mayankdubey1996/SQL_case_study/blob/main/1.Dannys_Diner/solution.md) 
  
 ### Know me beyond Work: 😎
 - Foodie
