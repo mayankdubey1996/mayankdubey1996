@@ -18,7 +18,7 @@
  #### SQL
    | **Project Name**        | **Description**           | **SQL Function**  |
    | ------------- |:-------------:| -----:|
-   |[Danny's Dinner](https://github.com/mayankdubey1996/SQL_case_study/blob/main/1.Dannys_Diner/solution.md)| --  | Temporary tables, Aggregations, Joins, CTEs, Window functions |
+   |[Danny's Dinner](https://github.com/mayankdubey1996/SQL_case_study/blob/main/1.Dannys_Diner/solution.md)| --  | Temporary tables, Aggregations, <br/> Joins, CTEs, Window functions |
    - 
  
 ### Know me beyond Work: 😎
