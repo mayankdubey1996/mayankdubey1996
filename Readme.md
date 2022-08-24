@@ -6,13 +6,12 @@
 - Moved to U.S. for master's degree 🇺🇸
 
 ### Education: :man_student:
-- NLP Nanodegree - Udacity (Currently Pursuing)
-- M.S. Data Analytics and Engineering - George Mason University May '21
-- B.Engg. Computer Sceince Rajiv Gandhi Proudyogiki Vishwavidyalaya May'18
+   | **Degree**        | **Institution**           | **Period** |
+   | ------------- |:-------------:| -----:|
+   | Natural Languuage Processing Nanodegree | Udacity | Currently Pursuing |
+   | M.S. Data Analytics and Engineering  | Data Analytics and Engineering  | May'21 |
+   | B.Engg Computer Sceinc| Rajiv Gandhi Proudyogiki Vishwavidyalaya | May'18 |
 
-### Competencies: 💁🏼  
-- Currently brushing up NLP
-- Machine learning, Deep learning, Python, SQL
 
 ### Project:
 #### Natural Language Processing
