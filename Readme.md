@@ -15,6 +15,11 @@
 - Machine learning, Deep learning, Python, SQL
 
 ### Project:
+#### Natural Language Processing
+   | **Project Name**        | **Description**           | **Other**  |
+   | ------------- |:-------------:| -----:|
+   | Part of speech tagging | Built **Hidden Markov Model** for Part of Speech taggig and achived <i>**95% accuracy**</i> | Temporary tables, Aggregations, <br/> Joins, CTEs, Window functions |
+
  #### SQL
    | **Project Name**        | **Description**           | **SQL Function**  |
    | ------------- |:-------------:| -----:|
