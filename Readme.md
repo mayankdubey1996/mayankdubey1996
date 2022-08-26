@@ -17,7 +17,7 @@
 #### Natural Language Processing
    | **Project Name**        | **Description**           | **Other**  |
    |:-------------: |:-------------:| :-----:|
-   |📖 [Part of speech tagging](https://github.com/mayankdubey1996/NLP_Nanodegree/tree/main/POS_tagging) | Built **Hidden Markov Model** for Part of Speech taggig and achived <i>**95% accuracy**</i> | |
+   |📖 [Part of speech tagging](https://github.com/mayankdubey1996/NLP_Nanodegree/tree/main/POS_tagging) | Built **Hidden Markov Model** for Part of Speech taggig and achived <i>**95% accuracy**</i> | [Notes and extra project details](https://github.com/mayankdubey1996/Notes/tree/main/HMM) |
 
  #### SQL
    | **Project Name**        | **Description**           | **SQL Function**  |
