@@ -18,7 +18,7 @@
    | **Project Name**        | **Description**           | **Other**  |
    |:-------------: |:-------------:| :-----:|
    |📖 [Part of speech tagging](https://github.com/mayankdubey1996/NLP_Nanodegree/tree/main/POS_tagging) | Built **Hidden Markov Model** for Part of Speech taggig and achieved <i>**95% accuracy**</i> | [Notes and project details](https://github.com/mayankdubey1996/Notes/tree/main/HMM) |
-   |🌐 [Machine Translation]() |Built **Encoder-Decoder** architecture for English to French translation and achived <i>**97% accuracy**</i> (**seq. to seq. translation**)|[Notes and project details]|
+   |🌐 [Machine Translation]() |Built **Encoder-Decoder** architecture for English to French translation and achived <i>**97% accuracy**</i>|[Notes and project details]|
 
  #### SQL
    | **Project Name**        | **Description**           | **SQL Function**  |
