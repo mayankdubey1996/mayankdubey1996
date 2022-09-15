@@ -8,7 +8,7 @@
 ### Education: :man_student:
    | **Degree**        | **Institution**           | **Period** |
    | :-------------: |:-------------:| :-----:|
-   | Nanodegree Narutal Language Processing | Udacity                                  | Currently Pursuing |
+   | Nanodegree Narutal Language Processing | Udacity                                  | Sept'22 |
    | M.S. Data Analytics and Engineering    | George Mason University                  | May'21 |
    | B.Engg Computer Science                | Rajiv Gandhi Proudyogiki Vishwavidyalaya | May'18 |
 
