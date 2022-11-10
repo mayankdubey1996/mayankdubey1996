@@ -23,7 +23,7 @@
    #### Machine Learning Projects
    | **Project Name**        | **Description**           | **Other**  |
    |:-------------: |:-------------:| :-----:|
-   |📖 [Flight fare prediction](https://github.com/mayankdubey1996/flight_fare_prediction) | Built and deployed **LightGBM** model on flask to predict fare of the flight given `source city`, `destination city`, `date` and etc.  | -- |
+   |✈︎ [Flight fare prediction](https://github.com/mayankdubey1996/flight_fare_prediction) | Built and deployed **LightGBM** model on flask to predict fare of the flight given `source city`, `destination city`, `date` and etc.  | -- |
    
 
  #### SQL
