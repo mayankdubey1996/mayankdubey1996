@@ -14,7 +14,7 @@
    | B.Engg Computer Science                | Rajiv Gandhi Proudyogiki Vishwavidyalaya | May'18 |
 
 
-### Project:
+### Projects:
 #### Natural Language Processing
    | **Project Name**        | **Description**           | **Other**  |
    |:-------------: |:-------------:| :-----:|
