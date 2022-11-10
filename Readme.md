@@ -19,6 +19,12 @@
    |:-------------: |:-------------:| :-----:|
    |📖 [Part of speech tagging](https://github.com/mayankdubey1996/NLP_Nanodegree/tree/main/POS_tagging) | Built **Hidden Markov Model** for Part of Speech taggig and achieved <i>**95% accuracy**</i> | [Notes and project details](https://github.com/mayankdubey1996/Notes/tree/main/HMM) |
    |🌐 [Machine Translation](https://github.com/mayankdubey1996/NLP_Nanodegree/tree/main/Machine_translation) |Built **Encoder-Decoder** architecture for English to French translation and achieved <i>**97% accuracy**</i>|[Notes and project details](https://github.com/mayankdubey1996/Notes/tree/main/Machine_translation)|
+   
+   #### Machine Learning Projects
+   | **Project Name**        | **Description**           | **Other**  |
+   |:-------------: |:-------------:| :-----:|
+   |📖 [Flight fare prediction](https://github.com/mayankdubey1996/flight_fare_prediction) | Built and deployed **LightGBM** model on flask to predict fare of the flight given `source city`, `destination city`, `date` and etc.  | -- |
+   
 
  #### SQL
    | **Project Name**        | **Description**           | **SQL Function**  |
